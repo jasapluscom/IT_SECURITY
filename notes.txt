@@ -1,0 +1,4 @@
+Bypassing SMAP / SMEP
+- https://ctf-wiki.github.io/ctf-wiki/pwn/linux/kernel/bypass_smep/
+- https://www.phoronix.com/scan.php?page=news_item&px=Linux-Protect-Special-CR4-Bits
+- https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2015/april/xen-smep-and-smap-bypass/
